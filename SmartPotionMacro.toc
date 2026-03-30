@@ -2,7 +2,10 @@
 ## Title: Smart Potion Macro
 ## Notes: Updates a combat potion macro based on the best Light's Potential potion in your bags
 ## Author: lyonharted
-## Version: 1.0.0
+## Version: 1.0.1
+
+## Category: Quality of Life
+## IconTexture: Interface\Icons\INV_12_profession_alchemy_lightpotion_yellow
 ## SavedVariables: SmartPotionMacroDB
 
 SmartPotionMacro.lua
