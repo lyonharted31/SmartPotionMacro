@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Smart Potion Macro
+## Notes: Updates a combat potion macro based on the best Light's Potential potion in your bags
+## Author: lyonharted
+## Version: 1.0.0
+## SavedVariables: SmartPotionMacroDB
+
+SmartPotionMacro.lua
